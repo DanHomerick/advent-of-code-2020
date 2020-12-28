@@ -1,4 +1,4 @@
-Every year around Christmas, (Advent of Code)[https://adventofcode.com/2020] does a
+Every year around Christmas, [Advent of Code](https://adventofcode.com/2020) does a
 fun little series of coding challenges. Akin to an advent calendar, each day
 unlocks a new challenge to do. I'm off to a late start (X-mas 2020 is already
 behind us), but I've been enjoying working through the challenges.
