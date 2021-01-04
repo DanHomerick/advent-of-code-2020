@@ -133,8 +133,6 @@ class PartTwoShip(BaseShip):
 
 
 if __name__ == '__main__':
-    test_commands = ['F10', 'N3', 'F7', 'R90', 'F11']
-
     with open('input', 'rt') as commands_file:
         commands = commands_file.readlines()
 
